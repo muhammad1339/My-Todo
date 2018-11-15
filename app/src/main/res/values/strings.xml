@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Todo</string>
+    <string name="text_btn_edit">Edit</string>
+    <string name="text_btn_delete">delete</string>
+    <string name="text_input_task_name">Task Title</string>
+    <string name="new_task">New Task</string>
+    <string name="text_input_task_date">Task Date</string>
+    <string name="text_input_task_time">Task Time</string>
+    <string name="btn_text_save_task">Save Task</string>
+    <string name="spinner_prompt">Task Type</string>
+    <string name="task_date_frag_title">Pick a date</string>
+    <string name="task_time_frag_title">Pick a time</string>
+    <string name="time_frag_btn_save">Select</string>
+    <string name="date_format">%04d-%02d-%02d</string>
+    <string name="time_format">%02d:%02d</string>
+    <string name="btn_text_update_task">Update Task</string>
+    <string name="task_edit_title">Edit Task</string>
+    <string name="task_status">Task Status</string>
+    <string name="empty_error_message">This Field should not be empty</string>
+    <string name="valid_date_message">Please, Select a valid date</string>
+    <string name="valid_time_message">Please, Select a valid time</string>
+    <string-array name="task_types">
+        <item>Default</item>
+        <item>Work</item>
+        <item>Study</item>
+        <item>Home</item>
+        <item>Fun</item>
+    </string-array>
+</resources>

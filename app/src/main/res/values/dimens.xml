@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margins">16dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="task_name_size">16sp</dimen>
+</resources>
